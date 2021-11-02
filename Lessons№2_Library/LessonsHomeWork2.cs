@@ -20,7 +20,6 @@ namespace Lessons_2_Library
         public static (double division, double remainder) Task3(double A, double B)
         {
             return (A / B, A % B);
-
         }
 
         public static double Task4(double A, double B, double C)
