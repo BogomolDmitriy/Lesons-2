@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesons №2", "Lesons №2\Lesons №2.csproj", "{A221ACD0-A2CF-4C0F-BE74-D6BA9EFBCBCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons№2_Library", "Lessons№2_Library\Lessons№2_Library.csproj", "{3409663A-6AFA-4062-87F6-37BFD9530019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lessons№2_Library", "Lessons№2_Library\Lessons№2_Library.csproj", "{3409663A-6AFA-4062-87F6-37BFD9530019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
